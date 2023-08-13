@@ -4,6 +4,7 @@
 #
 /[Ll]ibrary/
 /[Tt]emp/
+/[Ww]ebGL/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
@@ -70,3 +71,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# カスタマイズ
+Assets/Scripts/GenerateRandomStages/stage.txt
